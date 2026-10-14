@@ -1,0 +1,40 @@
+ZABA
+Dialog:
+Vitaj, pútnik! Čakal som ťa.
+Možno sa ti zdá, že som len obyčajný strážca,
+ale skrývam tajomstvá starého sveta.
+Ak chceš pokračovať, musíš odpovedať
+na moju hádanku. Počúvaj dobre...
+Čo je čierne, keď to kúpiš, červené,
+keď to používaš, a sivé, keď to vyhodíš?
+Ak by si ma chcel podplatiť, cudzinec,
+tu je moja cena: 56 dukátov
+Moznosti:
+uhlie oheň oceľ
+Spravne:
+Odpovedal si správne. Tu je tvoje odmena!
+Nespravne:
+Buhužiaľ pútnik
+
+MACKA
+Dialog:
+Aha! Vypadáš ako niekto, kto si myslí,
+že pozná odpovede na všetky hádanky.
+Tak to teda skúsme. Ak odpovieš správne,
+dostaneš niečo cenné. Pozorne počúvaj:
+Som vždy pred tebou, ale nikdy ma nemôžeš
+dobehnúť. Čo som?
+Máš iba jeden pokus!
+Ale za 96 dukátov sa možno dá niečo urobiť.
+Moznosti:
+tieň zajtrajšok vietor
+Spravne:
+Správne! Zajtrajšok! Si bystrý, cudzinec.
+Veru, iba tí, ktorí chápu podstatu času,
+môžu pokračovať ďalej. Tu je tvoja
+odmena – pokračuj, tvoja cesta čaká!
+Nespravne:
+Nie, to nie je správne... Zajtrajšok
+je odpoveď, ktorú si hľadal. Je
+vždy pred tebou, ale nikdy ho nedobehneš.
+Skús nabudúce lepšie premýšľať, cudzinec!
